@@ -80,7 +80,7 @@ Route::get('/log', function () {
 
 
 
-Route::post('/process-form', 'FormController@process')->name('process.form');
+// Route::post('/process-form', 'FormController@process')->name('process.form');
 
 
 
